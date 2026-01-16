@@ -39,7 +39,7 @@
 - **Языки программирования:** Python
 - **Контейнеризация:** Docker, Kubernetes (K8s)
 - **Системы контроля версий:** GitHub
-- **Облачные технологии:** Yandex Cloud (Managed Services, DataLens)
+- **Облачные технологии:** Yandex Cloud
 
 ---
 
