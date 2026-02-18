@@ -53,7 +53,6 @@
 
 **Telegram:** [@rimdaria](https://t.me/rimdaria)  
 **Email:** dashrim@ya.ru  
-**GitHub:** [github.com/daria-rim](https://github.com/daria-rim)
 
 **Формат работы:** офис/гибрид/удаленка (Москва)  
 **Тип занятости:** полная занятость, полный день
